@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Restoran Medallion</title>
+  <link>https://restoranmedallion.netlify.app/index.html</link>
+  <description>Posetite nas, i uverite se u naš kvalitet.</description>
+  <item>
+    <title>Galerija</title>
+    <link>https://restoranmedallion.netlify.app/galerija.html</link>
+    <description>Uživajte u prijatnom prostoru uz raznovrsnu hranu.</description>
+  </item>
+  <item>
+    <title>Meni</title>
+    <link>https://restoranmedallion.netlify.app/meni.html</link>
+    <description>Pogledajte novu ponudu naših jela.</description>
+  </item>
+</channel>
+
+</rss>
